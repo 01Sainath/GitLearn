@@ -10,7 +10,7 @@ public class Deloitte {
 		String S = input.next();
 
 		
-		System.out.println(solution(S));
+		System.out.print(solution(S));
 	}
 	
 	public static int solution(String S) {
